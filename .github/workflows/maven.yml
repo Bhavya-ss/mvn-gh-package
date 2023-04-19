@@ -31,6 +31,6 @@ jobs:
       run: echo "Hello world"
     - name: multiple commands
       run: |
-        ech "Hi"
+        echo "Hi"
         echo "Byee"
 
